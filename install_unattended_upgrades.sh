@@ -1,0 +1,1 @@
+ansible-playbook -i inventory.yml prepare_proxmox.yml --tags install_unattended_upgrades
